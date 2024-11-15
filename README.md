@@ -15,7 +15,6 @@
 **课程水平（适合年级）：** 三年级第1学期<br>
 
 **课程教材：**
-
 Title: Machine Learning and Security: Protecting Systems with Data and Algorithms<br>
 Author(s): Clarence Chio; David Freeman<br>
 Publisher: O’Reilly Media<br>
