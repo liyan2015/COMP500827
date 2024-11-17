@@ -30,6 +30,6 @@ http://libgen.li/edition.php?id=138042882<br>
 ISBN 978-7-302-206853-6<br>
 
 **Credits**<br>
-- [《机器学习》，张伟楠](https://hml.boyuai.com/slides)
+- [《机器学习》，上海交通大学，张伟楠](https://hml.boyuai.com/slides)
 - [CS 259D, Stanford University, Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
 - [Machine Learning Security, University of Cagliari](https://unica-mlsec.github.io/mlsec/)
