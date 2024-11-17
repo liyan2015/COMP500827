@@ -1,4 +1,4 @@
-# COMP500827-机器学习在信息安全中的应用
+# 西安交通大学COMP500827-机器学习在信息安全中的应用
 
 **课程学分：** 2<br>
 **课程学时：** 24个授课学时 + 8个实验学时<br>
@@ -28,3 +28,8 @@ http://libgen.li/edition.php?id=138042882<br>
 北京：清华大学出版社<br>
 2016年1月.<br>
 ISBN 978-7-302-206853-6<br>
+
+**Credits**<br>
+- [《机器学习》，张伟楠](https://hml.boyuai.com/slides)
+- [CS 259D, Stanford University, Data Mining for Cyber Security](http://web.stanford.edu/class/cs259d/)
+- [Machine Learning Security, University of Cagliari](https://unica-mlsec.github.io/mlsec/)
