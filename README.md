@@ -21,7 +21,6 @@ Publisher: O’Reilly Media<br>
 Year: 2018<br>
 Pages: 386<br>
 ISBN: 1491979909; 9781491979907<br>
-http://libgen.li/edition.php?id=138042882<br>
 
 参考书：<br>
 周志华 著. 机器学习<br>
